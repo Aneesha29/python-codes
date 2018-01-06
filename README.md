@@ -1,1 +1,3 @@
-# python-code-to-find-positive-or-negative-number
+# python-code
+Here you can find a set of python codes in basic level
+# Especially for begineers 
